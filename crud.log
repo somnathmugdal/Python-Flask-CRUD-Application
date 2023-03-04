@@ -1,0 +1,6 @@
+04-Mar-23 23:21:30 - root - INFO - Data Deleted Successfully !
+04-Mar-23 23:21:30 - werkzeug - INFO - 127.0.0.1 - - [04/Mar/2023 23:21:30] "[32mGET /delete/30 HTTP/1.1[0m" 302 -
+04-Mar-23 23:21:30 - root - INFO - Home Page Loaded Sucessfully !
+04-Mar-23 23:21:30 - root - INFO - ((31, 'Kiran Ambekar', 'kiran@gmail.com', '7045125435'), (29, 'Somnath Mugdal', 'svmsomnathsvm@gmail.com', '7304050337'))
+04-Mar-23 23:21:30 - werkzeug - INFO - 127.0.0.1 - - [04/Mar/2023 23:21:30] "GET / HTTP/1.1" 200 -
+04-Mar-23 23:21:30 - werkzeug - INFO - 127.0.0.1 - - [04/Mar/2023 23:21:30] "[36mGET /static/js/jquery-3.2.1.min.js HTTP/1.1[0m" 304 -
